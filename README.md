@@ -3,7 +3,7 @@
 Layout of a trading service page with interactive components. The app was created using Next.js. CSS modules are used for styling.\
 An example of animated vertical blocks of the page can be found for the “Buy/Sell” block (above the “Trends” block, when you click on “Buy” or “Pay with”).
 
-[DEMO]()
+[DEMO](https://trading-page-ivan-vasylenkos-projects.vercel.app/)
 
 ## Tech stack
 - Next.js
