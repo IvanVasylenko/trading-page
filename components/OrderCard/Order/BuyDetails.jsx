@@ -9,6 +9,6 @@ export const BuyDetails = ({ onStepChange }) => (
   <div className={buyDetailsStyles.buyDetails}>
     <BuyDetailsRow label='Buy' currency='BTC' onClick={onStepChange} />
     <BuyDetailsDivider />
-    <BuyDetailsRow label='Pay width' currency='ETH' onClick={() => {}} />
+    <BuyDetailsRow label='Pay width' currency='ETH' onClick={onStepChange} />
   </div>
 )
